@@ -14,7 +14,7 @@ This project is simple Books Library which can handle:
 * getting book by author
 * getting book by year
 * getting book by title and author
-* lenting and returning books
+* lending and returning books
 * checking book availability
 	
 ## Technologies
